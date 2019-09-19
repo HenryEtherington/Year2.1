@@ -1,0 +1,53 @@
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe.config
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\CS_Connect.pdb
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csprojAssemblyReference.cache
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.frmConnect.resources
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.Properties.Resources.resources
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.GenerateResource.cache
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CoreCompileInputs.cache
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.exe
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.pdb
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\EntityFramework.dll
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\EntityFramework.xml
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00199222\source\repos\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CopyComplete
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe.config
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.pdb
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.dll
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.dll
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.xml
+C:\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.xml
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csprojAssemblyReference.cache
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.frmConnect.resources
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.Properties.Resources.resources
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.GenerateResource.cache
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CoreCompileInputs.cache
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CopyComplete
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.exe
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.pdb
+C:\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.frmRegStock.resources
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe.config
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.exe
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\CS_Connect.pdb
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.dll
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.dll
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.dll
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.xml
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\bin\Debug\EntityFramework.SqlServer.xml
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csprojAssemblyReference.cache
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.frmConnect.resources
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.frmRegStock.resources
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.Properties.Resources.resources
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.GenerateResource.cache
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CoreCompileInputs.cache
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.csproj.CopyComplete
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.exe
+X:\students\t00199222\Year_2\SW Enginerring\CS_Connect\CS_Connect\obj\Debug\CS_Connect.pdb
