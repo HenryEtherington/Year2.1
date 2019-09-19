@@ -1,0 +1,6 @@
+cat <-- EOF | grep [0-9]*$
+i
+am
+lying
+EOF
+

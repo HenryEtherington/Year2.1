@@ -1,0 +1,73 @@
+    1  git clone https://github.com/junit-team/junit4.git
+    2  cd ..
+    3* mkdir[2~[A gitProject
+    4  https://github.com/junit-team/junit4.git
+    5  git clone https://github.com/junit-team/junit4.git
+    6  cd
+    7  mkdir gitproject
+    8  cd gitproject
+    9  git clone https://github.com/junit-team/junit4.git
+   10  ls
+   11  cd junit4
+   12   ls
+   13  alias ls
+   14  ls - al
+   15  ls -a
+   16  ls -al
+   17  shopt - 2 globset
+   18  shopt - s globset
+   19  shopt - s globstar
+   20  grep Exception
+   21  grep | Exception
+   22  grep Exception **/*.java
+   23  grep Exception **/* .java
+   24  grep Exception **/*.java
+   25  grep Exception **/.java
+   26  grep Exception **/*.java
+   27  grep Exception **/* .java
+   28  grep IoException **/* .java
+   29  grep IOException **/* .java
+   30  grep IOException **/ *.java
+   31  pwd
+   32  cat <<- EOF | grep hello
+this
+is
+helloe
+hello
+me
+EOF
+
+   33  grep IoException
+   34  grep :.java
+   35  shopt -s globstar
+   36  grep - .java
+   37  grep  .java
+   38  grep ^d s(ls-l)
+   39  ls -l | grep ^d 
+   40  ls -l | grep ^s
+   41  ls -l | grep ^b
+   42  ls -l | grep ^s
+   43  ls -l | grep ^t
+   44  ls -l | grep ^d
+   45  grep ^t data.dat
+   46  data.dat
+   47  nano data.dat
+   48  grep ^t data.dat
+   49  grep ^L data.dat
+   50  grep ^l data.dat
+   51  grep ^ll data.dat
+   52  grep ^lying data.dat
+   53  echo "tonight tongiht"
+   54  echo "tonight tongiht" | grep 's/night/day'
+   55  echo "tonight tongiht" | sed 's/night/day'
+   56  echo "tonight tongiht" | sed '/night/day'
+   57  echo "tonight tongiht" | sed 'night/day'
+   58  echo "tonight tongiht" | sed 's/night/day'
+   59  echo "tonight tongiht" | sed 's/night/day/g'
+   60  echo "tonight tonight" | sed 's/night/day/g'
+   61  echo "tonight tonight" | sed 's/tonight/day/g'
+   62  grep ^ i datta.dat
+   63  grep ^ i data.dat
+   64  grep ^i data.dat
+   65  grep ^ data.dat  data.dat
+   66  history > lab15.txt
