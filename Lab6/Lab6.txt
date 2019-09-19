@@ -1,0 +1,115 @@
+    1  pwd
+    2  ls
+    3  ls -al
+    4  ls
+    5  cd
+    6  touch file
+    7  tree
+    8  mkdir hello
+    9  rmdir hello
+   10  tree
+   11  cd
+   12  cd FRiday
+   13  cd Friday
+   14  ls FRi*
+   15  ls FRi *
+   16  ls FRi r
+   17  ls Fri *
+   18  ls Fri*
+   19  ls
+   20  echo FRi*
+   21  echo Fri*
+   22  touch FRiday
+   23  unalias FRidayBash
+   24  unalias FridayBash
+   25  cd FRidayBash
+   26  unalias FRidayBash
+   27  cd FRidayBash/
+   28  unalias FRidayBash
+   29  unalias ls
+   30  ls
+   31  cat HelloWorld.sh
+   32  nano  Hello.sh
+   33  cat Hello.sh
+   34  Hello.sh
+   35  chmod +x Hello.sh
+   36  Hello.sh
+   37  nano  Hello.sh
+   38  Hello.sh
+   39  nano  Hello.sh
+   40  Hello.sh
+   41  Hello.sh Arthur
+   42  Hello.sh Dent
+   43  Hello.sh Ford
+   44  Hello.sh Prefect
+   45  nano  Hello2.sh
+   46   Hello2.sh
+   47  chmod +X  Hello2.sh
+   48   Hello2.sh
+   49  chmod U+X  Hello2.sh
+   50  chmod +X  Hello2.sh
+   51   Hello2.sh
+   52  chmod +x  Hello2.sh
+   53   Hello2.sh
+   54  nano  Hello2.sh
+   55   Hello2.sh
+   56  nano  Hello2.sh
+   57  Hello2.sh
+   58  Hello2.sh HARRY
+   59  Hello2.sh HARROD
+   60  Hello2.sh HARROD THE ONE AND ONLY
+   61  nano Hello3.sh 
+   62  chmod +x Hello3.sh
+   63   Hello3.sh 
+   64   Hello3.sh adfasdf adfasd sdf
+   65  nano Hello3.sh 
+   66  Hello3.sh 
+   67  Hello3.sh  sdaf dafd sf
+   68  echo "The number is $num"
+   69  echo 'The number is $num'
+   70  touch "a new file"
+   71  export name=towel
+   72  type!
+   73  type[
+   74  type{
+   75  [-e Hello3.sh ] ech $?
+   76  [-e Hello3.sh ] echo $?
+   77  ls
+   78  [-e Hello3.sh ] echo $?
+   79  ls -al
+   80  mkdir myDir
+   81  [ -e myDir ] && echo $? || echo $?
+   82  nano FF.sh
+   83   FF.sh
+   84  chmod +x FF.sh
+   85   FF.sh
+   86  man sed
+   87  IFExists.sh
+   88  nano IFExists.sh
+   89  chmod +x  IFExists.sh
+   90  IfExists.sh
+   91  IFExists.sh
+   92  nano IFExists.sh
+   93  IFExists.sh
+   94  IFExists.sh www.fakeWebsite.com
+   95  IFExists.sh  www.fakeWebsite.com
+   96  IFExists.sh  ytsresr
+   97  nano IFExists.sh
+   98* IFExists.sh  ytsr
+   99  IFExists.sh  www.fakeWebsite.com
+  100  IFExists.sh  Hello.sh
+  101  IFExists.sh  www.fakefile.com
+  102  nano IFExists.sh
+  103  IFExists.sh  www.fakefile.com
+  104  nano IFExists.sh
+  105  IFExists.sh  www.fakefile.com
+  106  IFExists.sh  Hello.sh
+  107  [ -f m ]
+  108  echo$?
+  109  echo $?
+  110  [ -f m ]
+  111  echo $?
+  112  ls
+  113  history > Lab6.txt
+  114  cd
+  115  history > Lab6.txt

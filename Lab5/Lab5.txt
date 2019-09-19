@@ -1,0 +1,295 @@
+    1  tree
+    2  mkdir deer
+    3  tree
+    4  rmdir deer
+    5  tree
+    6  touch dfe
+    7  tree
+    8  rm dfe
+    9  tree
+   10  rm dfe
+   11  tree
+   12  ls -a
+   13  ls -al
+   14  nano eg.java
+   15  cat eg.java
+   16  rm eg.java
+   17  cat eg.java
+   18  touch 
+   19  pwd
+   20  mdkir ter
+   21  mkdir ter
+   22  touch ter
+   23  tree
+   24  rmdir ter
+   25  rm ter
+   26  tree
+   27  - History
+   28  - History Lab5.java
+   29  ls -al
+   30  ls -l
+   31  name=Harry
+   32  echo $name
+   33  nano .vimrc
+   34  ;s
+   35  unalias ls
+   36  ls
+   37  unalias ls
+   38  ;s
+   39  ls
+   40  mkdir sandbx
+   41  mv sandbxx/ sandbox
+   42  mv sandbx/ sandbox
+   43  ls
+   44  mv sandbox/ Sandbox
+   45  ;s
+   46  ls
+   47  touch afle
+   48  mv afle afile
+   49  $?
+   50  nano myTrue
+   51  myTrue
+   52  nano myTrue
+   53  nano myFalse
+   54   myFalse
+   55  nano myTrue
+   56  nano myFalse
+   57  pwd
+   58  echo pth
+   59  echo $path
+   60  echo $PATH
+   61  echo $PATH | sed 's/:/\n\g'
+   62  echo $PATH | sed 's/:/\n/g'
+   63  chmod 700 myTrue
+   64  myTrue
+   65  nano myTrue
+   66  myTrue
+   67  echo $?
+   68  chmod 700 myFalse
+   69  myFalse
+   70  nano myFalse
+   71  myFalse
+   72  echo $?
+   73  if true; then echo "The condition returned am exit status of 0"; fi
+   74   if myTrue; then "The condtion returned an exit status of 0"; fi
+   75  if true; then echo "The condition returned am exit status of 0"; fi
+   76  if true; then echo "The condition returned am exit status of
+
+if true; then echo "The condition returned am exit status of;  fi
+   77  if myTrue; then echo"this works too"; fi
+   78  if myTrue; then echo "this works too" fi; fi
+   79  if myTrue; then echo "This works too"; fi
+   80  true && echo "good" || echo "bad"
+   81  false  && echo "good" || echo "bad"
+   82  myTrue  && echo "good" || echo "bad"
+   83  myFalse  && echo "good" || echo "bad"
+   84  nano myFalse
+   85  myFalse  && echo "good" || echo "bad"
+   86  nano myTrue
+   87  myTrue  && echo "good" || echo "bad"
+   88  nano myTrue
+   89  myTrue  && echo "good" || echo "bad"
+   90  nano myFalse
+   91  chmod u+x myFalse
+   92  myFalse
+   93  echo $?
+   94  nano myFalse
+   95  myFalse
+   96  echo $?
+   97  myFalse  && echo "good" || echo "bad"
+   98  nano HelloWorld.java
+   99  cat HelloWorld.java
+  100  chmod u+x HelloWorld.java
+  101  HelloWorld
+  102  HelloWorld.java
+  103  nano HelloWorld.java
+  104  HelloWorld.java
+  105  nano HelloWorld.java
+  106  javac HelloWorld.java && echo "No problem" || echo "Bad"
+  107  javanano HelloWorld.java
+  108  ls
+  109  HelloWorld.java
+  110  nano HelloWorld.java
+  111  javanano HelloWorld.java
+  112  HelloWorld.java
+  113  nano HelloWorld.java
+  114  javac  HelloWorld.java
+  115  nano HelloWorld.java
+  116  javac  HelloWorld.java
+  117  javac  HelloWorld.java 2> /dev/null
+  118  STDIN
+  119  echo $STDIN
+  120  javac  HelloWorld.java
+  121  javac  HelloWorld.java 2> /dev/null
+  122  javac  HelloWorld.java 2> error.txt
+  123  error.txt
+  124  cat error.txt
+  125  javac  HelloWorld.java %| error.txt
+  126  javac  HelloWorld.java 1%2> error.txt
+  127  javac  HelloWorld.java 1&2> error.txt
+  128  echo "Hello" > hello.txt
+  129  echo Hello > hello.txt
+  130  cat hello.txt
+  131  set +o noclobber
+  132  echo Hello > hello.txt
+  133  echo Hello CAT > hello.txt
+  134  cat hello.txt
+  135* 
+  136  echo Hello CAT > hello.txt
+  137  javac  HelloWorld.java java 2> error.txt
+  138  javac  HelloWorld.java java 2> errors.txt
+  139  javac  HelloWorld.java java 2> error.txt
+  140  echo $SIDIN
+  141  nano HelloWorld.java
+  142  javac HelloWorld.java
+  143  echo $?
+  144  ls
+  145  file HelloWorld.class
+  146  ;s -l
+  147  ls -l
+  148  java HelloWorld.java
+  149  java HelloWorld
+  150  java HelloWorld 1> /dev/null
+  151  $ Hello World !
+  152  java HelloWorld 1&2> /dev/null
+  153  java HelloWorld 1> /dev/null
+  154  nano HelloWorld.java
+  155  javac HelloWorld.java && java HelloWorld.
+  156  javac HelloWorld.java && java HelloWorld
+  157  nano HelloWorld.java
+  158  javac HelloWorld.java && java HelloWorld
+  159  cat error.txt
+  160  nano HelloWorld.java
+  161  cat error.log
+  162  [ -n lastName ] && echo $? || echo echo 4?
+  163  [ -n lastName ] && echo $? || echo echo $?
+  164  [ -n lastName ] && echo "Good"  || echo echo "Bad"
+  165  name="HARRY"
+  166  echo $name
+  167  [ -n $lastName ] && echo "Good"  || echo echo "Bad"
+  168  echo $?
+  169  unset lastName
+  170  [ -n lastName ] 
+  171  echo $?
+  172  [ -n ""]
+  173  echo $?
+  174  [ -n $lastName ] 
+  175  echo $?
+  176  [ -n ""]
+  177  echo $?
+  178  unset lastName
+  179  [ -n $lastName ] 
+  180  echo 4?
+  181  echo $?
+  182  [ -n "a" ] 
+  183  echo $?
+  184  [ -n "HelloWorld.java" ] 
+  185  echo $?
+  186  [ -n "h" ] 
+  187  echo $?
+  188  [ -n "1" ] 
+  189  echo $?
+  190  [ -n "3" ] 
+  191  echo $?
+  192  [ -z ] 
+  193  echo $?
+  194  [ -z ""] 
+  195  echo $?
+  196  [ -z ""] 
+  197  [ -n "" ] 
+  198  echo $?
+  199  [ -n "ddfegasjkdawelh" ] 
+  200  echo $?
+  201  [ -z "" ] 
+  202  echo $?
+  203  [ -z "sadfsdfasdf" ] 
+  204  echo $?
+  205  name=
+  206  echo $?
+  207  [ -z "$name"] 
+  208  echo $?
+  209  [ -n "$name"] 
+  210  echo $?
+  211  name=HARRY
+  212   
+  213  unset name
+  214  name-HARRY
+  215  name=HARRY
+  216  [ -n "$name"] 
+  217  echo $?
+  218  [ -n $name ] 
+  219  echo $?
+  220  echo $name
+  221  ls
+  222  -e my False
+  223  [ -e my False || echo "Exists" || echo "Does not"
+  224  [ -e my Falsezz || echo "Exists" || echo "Does not"
+  225  [ -d my Falsezz || echo "Exists" || echo "Does not"
+  226  [ -d my Falsezz ] || echo "Exists" || echo "Does not"
+  227  [ -d my Falsezz ] && echo "Exists" || echo "Does not"
+  228  [ -d myFalse || echo "Exists" || echo "Does not"
+  229  nano HelloWorld.py
+  230  cat HelloWorld.py
+  231  nano HelloWorld.py
+  232  cat HelloWorld.py
+  233  python HelloWorld.py
+  234  [[ -n $name ]]
+  235  echo $name
+  236  [ -n "$name" ]
+  237  echo $?
+  238  [ -z "$name" ]
+  239  echo $?
+  240  printf $?
+  241  printf "%n" $?
+  242  printf "%s" $?
+  243  file [
+  244  type [
+  245  type [[
+  246  which [
+  247  which [[
+  248  type [[
+  249  if ("cat" == "cat")
+  250  if ("cat" .equals "cat")
+  251  if ("cat" .equals("cat"))
+  252  if ("cat" .equals("cat"));
+  253  if (3==3); ;
+  254  [ cat > cat ]
+  255  echo $?
+  256  [ "cat" > cat ]
+  257  echo $?
+  258  [ "cat"\ > cat 
+  259  [ "cat" \> cat 
+  260  [[ "cat" \> cat ]]
+  261  [[ "cat" > cat ]]
+  262  echo $?
+  263  [[ "cat" < cat ]]
+  264  [[ "cat" > cat ]]
+  265  [[ "cat" \> cat ]]
+  266  [[ "cat" \< cat ]]
+  267  [[ "cat" \> cat ]]
+  268  echo $?
+  269  [[ "cat" == "cat" ]]
+  270  echo $?
+  271   [9 = 9]
+  272   [ 9 = 9 ]
+  273  echo $?
+  274   [ 100 \> 2 ]
+  275  echo $?
+  276  touch 100 2
+  277  ls -l
+  278  touch 0 1
+  279  ls -l
+  280  touch 01
+  281  ls -l
+  282  touch 0
+  283  touch 2
+  284  touch 1
+  285  ls -l
+  286  [ 100 \< 2 ]
+  287  echo $?
+  288  [ 100 -gt 2 ]
+  289  echo $?
+  290  - History || Lab5.txt
+  291  - History | Lab5.txt
+  292   history | Lab5.txt
+  293   history > Lab5.txt

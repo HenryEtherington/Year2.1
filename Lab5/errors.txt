@@ -1,0 +1,11 @@
+HelloWorld.java:8: error: ')' expected
+System.out.println(Hello World");
+                        ^
+HelloWorld.java:8: error: unclosed string literal
+System.out.println(Hello World");
+                              ^
+HelloWorld.java:8: error: not a statement
+System.out.println(Hello World");
+                         ^
+error: Class names, 'java', are only accepted if annotation processing is explicitly requested
+4 errors

@@ -1,0 +1,126 @@
+    1  cd .
+    2  cd ~
+    3  nano AddString.java
+    4  nano compile.sh
+    5  nano AddString.java
+    6  echo $?
+    7  compile.sh AddString.java
+    8  nano compile.sh
+    9  nano AddString.java
+   10  compile.sh AddString.java
+   11  nano compile.sh
+   12  compile.sh AddString.java
+   13  nano compile.sh
+   14  y
+   15  nano AddString.java
+   16  compile.sh AddString.java
+   17  nano compile.sh
+   18  compile.sh AddString.java
+   19  nano AddString.java
+   20  compile.sh AddString.java
+   21  ls
+   22  ls 0a
+   23  ls -a
+   24  echo $?
+   25  nano AddString.java
+   26  nano compile.sh
+   27  echo $?
+   28  nano compile.sh
+   29  echo $?
+   30  nano compile.sh
+   31  nano AddString.java
+   32  echo $?
+   33  nano compile.sh
+   34  compile.sh AddString.java
+   35  nano AddString.java
+   36  compile.sh AddString.java
+   37  ls 
+   38  ;s -l
+   39  ls -l
+   40  ls -l ADD*
+   41  ls -l Add*
+   42  javac AddString
+   43  java AddString
+   44  nano AddString.java
+   45  compile.sh AddString.java
+   46  java AddString
+   47  com
+   48  con
+   49  history Lab4.txt
+   50  cd .
+   51  history Lab4.txt
+   52  ~ history Lab4.txt
+   53  cd/..
+   54  compile.sh AddString.java
+   55  jupyter notebook
+   56  ~ history Lab4.txt
+   57  ~ history Desktop/ Lab4.txt
+   58  ~ history/ Desktop/ Lab4.txt
+   59  ~ history Lab4.txt
+   60  cd ..
+   61  ~ history Lab4.txt
+   62  cd/..
+   63  cd/../..
+   64  \..
+   65  cd ~
+   66  ls
+   67  man /F
+   68  man -F
+   69  man --F
+   70  ls -F
+   71  man
+   72  0
+   73  help
+   74  man
+   75  3
+   76  man
+   77  34
+   78  man -F
+   79  man -f
+   80  man
+   81  9
+   82  help
+   83  cd.
+   84  man
+   85   -f desktop ]
+   86  [ -f desktop ]
+   87  echo $?
+   88  [ -d desktop ]
+   89  echo $?
+   90  [ -d Desktop ]
+   91  echo $?
+   92  [ -f Desktop ]
+   93  echo $?
+   94  [ -f compile.sh ]
+   95  echo $?
+   96  [ -f xvx ]
+   97  echo $?
+   98  ls -a
+   99  ls -al
+  100  dollar.sh
+  101  nano dollar.sh
+  102  dollar.sh a b
+  103  dollar.sh TE
+  104  dollar.sh T
+  105  dollar.sh test two three four && echo$?
+  106  nano dollar.sh
+  107  dollar.sh test two three four && echo$?
+  108  nano dollar.sh
+  109  dollar.sh test two three four && echo$?
+  110  chmod +x dollar.sh
+  111  dollar.sh test two three four && echo$?
+  112  nano dollar.sh
+  113  dollar.sh test two three four && echo$?
+  114  dollar.sh test two three  && echo$?
+  115  dollar.sh test two  && echo$?
+  116  dollar.sh test two  && echo $?
+  117  nano dollar.sh
+  118  dollar.sh test two  && echo $?
+  119  nano dollar.sh
+  120  dollar.sh test two  && echo $?
+  121  dollar.sh test two three  && echo $?
+  122  nano dollar.sh
+  123  dollar.sh test two three  && echo $?
+  124  nano dollar.sh
+  125  dollar.sh test two three  && echo $?
+  126   history >  myHistory.1.2.19.txt
