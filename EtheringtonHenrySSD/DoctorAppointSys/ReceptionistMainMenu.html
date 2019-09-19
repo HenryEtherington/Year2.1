@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Receptionist</title>
+     <meta charset='utf-8'>
+
+  </head>
+     <link rel="stylesheet" type="text/css" href="ReceptionistMainMenu1.css">
+    <body>
+   
+ <div class="topnav">       
+  <a class="active" href="#">Home</a>   
+   <a href="Patient.html">Patients</a>   
+    <a href="Doctor.html">Doctors</a> 
+     <a href="Appointment.html">Appointments</a>
+      <a href="selectJob.html">Exit</a> 
+       </div>
+           
+   <div id= "Logo">
+    </div>
+ 
+<form action="RegisterPatientForm.php" > 
+  <div id="ButtonPatient">
+    <input type = "submit" Style="height: 150px; width: 1000px" name ="submit1" value="Regeister Patient">
+      </div>
+  </form>     
+     
+    <form method= "post" action= "selectP.php">       
+     <div id="SelectPatient">
+      <input type = "text" Style="height: 100px; width: 937px" value = "Select patient name" name="firstName">
+       <input type = "submit" name ="submit1" value="submit">
+      </div>
+     </form>
+     
+    <form method= "post" action= "selectD.php">       
+     <div id="SelectDoctor">
+      <input type = "text" Style="height: 100px; width: 937px" value = "Select doctor name" name="firstName">
+       <input type = "submit" name ="submit1" value="submit">
+      </div>
+     </form>
+     
+   <div id = "divBox">
+  </div>  
+ </body>
+</html>
